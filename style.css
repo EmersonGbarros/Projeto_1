@@ -214,3 +214,11 @@ input:focus, textarea:focus{
   height: 100%;    
   background-image: url(./imagens/3q.jpg);  
 }
+
+footer{
+  background-color: rebeccapurple;
+  font-family: 'Harry Potter', sans-serif;  
+  font-weight: bolder;
+  color: azure;
+  padding: 16px 0;
+}
